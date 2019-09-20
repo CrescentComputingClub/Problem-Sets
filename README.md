@@ -1,6 +1,6 @@
 # Problem Sets
 
 ### Beginner Problems
-| Problem Name  | Link | Points |
+| Problem Name  | Site | Points |
 |---------------|---------------|
-| Hello, World! | 
+| Hello, World! | DMOJ |   1p   |
